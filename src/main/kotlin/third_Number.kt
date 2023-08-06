@@ -1,0 +1,2 @@
+class `fun main` {
+}
